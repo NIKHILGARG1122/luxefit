@@ -1,0 +1,6 @@
+{
+  "name": "AURA ATELIER | High-End Fashion & Virtual Try-On",
+  "description": "Minimalist luxury fashion e-commerce with AI virtual try-on fitting room and secure checkout.",
+  "requestFramePermissions": ["camera"],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
